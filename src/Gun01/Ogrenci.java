@@ -8,5 +8,8 @@ public class Ogrenci {
         System.out.println("Benim merhabam");
         System.out.println("Benim merhabam 2");
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println( "HP");
+        }
     }
 }
